@@ -18,7 +18,7 @@ My name is **Andre**, also known as **Iza**. I'm interested in **System Analysis
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/31vbwicorigiwphldnxfm5vjngsm">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vbwicorigiwphldnxfm5vjngsm&count=5" alt="Spotify recently played"  />
   </a>
