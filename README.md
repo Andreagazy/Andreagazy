@@ -13,5 +13,5 @@ My name is **Andre**, also known as **Iza**. I'm interested in **System Analysis
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### Connect With Me
-Gmail : ![](andreagazyia@gmail.com)
-Github : ![x](github.com/Andreagazy)
+- Gmail : andreagazyia@gmail.com
+- Github : github.com/Andreagazy
