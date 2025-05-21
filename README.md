@@ -11,3 +11,7 @@ My name is **Andre**, also known as **Iza**. I'm interested in **System Analysis
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### Connect With Me
+Gmail : ![](andreagazyia@gmail.com)
+Github : ![x](github.com/Andreagazy)
