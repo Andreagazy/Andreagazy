@@ -1,6 +1,6 @@
 ##  Hello, Welcome To My Profile 🐧 
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Q1MXRzaTR1bWhyMmxkeHgzYWp2MHNvcXZsbzFrOTFvY3g5MmZ6MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TchouzuLl10DC/giphy.gif"/>
+<img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Q1MXRzaTR1bWhyMmxkeHgzYWp2MHNvcXZsbzFrOTFvY3g5MmZ6MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TchouzuLl10DC/giphy.gif"/>
 
 ### About me 😃
 My name is **Andre**, also known as **Iza**. I'm interested in **System Analysis** and **Front-End Development**. I like collecting Pokémon plushies and usually sell them on TikTok.
